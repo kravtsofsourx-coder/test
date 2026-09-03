@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "static-preview",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/private/tmp/claude-502/-Users-yurii-kravtsov-Downloads-Test-project/284f4711-c52f-42c7-8f3a-e962073f8f7d/scratchpad/serve.py"],
+      "port": 4173
+    }
+  ]
+}
